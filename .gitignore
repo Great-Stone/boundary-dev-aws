@@ -1,4 +1,5 @@
-.ssh
-.terraform
-*.tfstate*
-.terraform.lock.hcl
+**/.ssh
+**/.terraform
+**/*.tfstate*
+**/.terraform.lock.hcl
+**/.DS_Store
